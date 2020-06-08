@@ -11,5 +11,5 @@ Career wise, I am shooting towards the entertainment industry and focus more on 
 
 
 # Link 1
-<a> href="http://www.stancikaite.com" </a>
+<a>href="http://www.stancikaite.com" </a>
 
