@@ -1,19 +1,17 @@
-## Welcome to GitHub Pages
+## Biography
 
-You can use the [editor on GitHub](https://github.com/germainej/JosephGermaine/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a transfer student at the University of Central Florida, and I admire the art of film. This includes being behind and in front of the camera. I am mostly interested in the entertainment industry including, but not limited to, cinematography, video editing and digital media.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Work Description
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ 
+Career wise, I am shooting towards the entertainment industry and focus more on motion pictures. I see myself producing, directing, acting, and editing a variety of cinematic works. When it comes to my work, I would like to make 3D art in order to transition into computer animations in the future. 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+
+# Link 1
+http://www.stancikaite.com 
 
 - Bulleted
 - List
